@@ -1,0 +1,50 @@
+
+body{
+    border: 5px solid ;
+    padding: 125px;
+    background: #D6D9E1  ;
+    display: block;
+    margin: 10mm;
+}
+
+#page-title{
+    font-family: fantasy;
+    font-size: 30px;
+    color: #05385A ;
+    text-align: center;
+}
+
+form{
+    padding-top: 30px;
+}
+
+button{
+    padding: 12px 40px;
+    background-color: dimgrey;
+    color: beige;
+    border-radius: 12%;
+}
+
+input{
+    padding: 5px;
+    width: 100%;
+    max-width: 100%;
+    font-family: sans-serif;
+    text-decoration: none;
+
+    
+}
+
+img{
+    border: 1px solid;
+    
+}
+
+table td{
+    padding: 12px;
+    padding-left: 125px;
+}
+
+table td h5{
+   padding: 12px 300px;
+}
